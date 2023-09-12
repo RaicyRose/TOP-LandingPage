@@ -2,6 +2,7 @@ body {
     width: 100%;
     margin: 0;
     padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .header {
@@ -218,7 +219,7 @@ h2 {
 
 .projectsBox img {
     height: 70px;
-    position: absolute;
+    position: fixed;
     top: 31%;
     left: 50%;
     transform: translate(-50%, -50%);
